@@ -78,4 +78,3 @@ function WalletSelector() {
 }
 ```
 
-T
